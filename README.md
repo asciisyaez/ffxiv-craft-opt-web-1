@@ -2,6 +2,8 @@
 
 This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
 
+https://asuki-opt.herokuapp.com/
+
 ### Running the app during development
 
 You can pick one of these options:
