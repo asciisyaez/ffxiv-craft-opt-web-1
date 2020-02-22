@@ -315,7 +315,7 @@ function ApplyModifiers(s, action, condition) {
 	//		if (s.durabilityState < 10) {
 	//			progressIncreaseMultiplier -= 0.5;
 	//		}
-	//	}
+	//	  }
 	//else {
 	//    if (isActionEq(action, AllActions.groundwork)) {
 	//		if (s.durabilityState < 20) {
@@ -324,7 +324,13 @@ function ApplyModifiers(s, action, condition) {
 	//	}
 	//}
 	//}
-
+	    if (isActionEq(action, AllActions.groundwork)) {
+			if (s.durabilityState < 20) {
+				progressIncreaseMultiplier -= 0.5;
+			}
+		}
+	
+	
     // We can only use Byregot actions when we have at least 2 stacks of inner quiet
     if (isActionEq(action, AllActions.byregotsBlessing)) {
         if ((AllActions.innerQuiet.shortName in s.effects.countUps) && s.effects.countUps[AllActions.innerQuiet.shortName] >= 1) {
