@@ -25,6 +25,7 @@
     wasteNot: {                common: true, buff: true, skillID: {"Leatherworker": 279} },
     wasteNot2: {               common: true, buff: true, skillID: {"Leatherworker": 285} },
     manipulation: {            common: true, buff: true, skillID: {"Goldsmith": 278} },
+	groundwork: {              common: true, buff: true, skillID: {"Goldsmith": 278} },
     innerQuiet: {              common: true, buff: true, skillID: {"Alchemist": 258, "Armorer": 254, "Blacksmith": 253, "Carpenter": 252, "Culinarian": 259, "Goldsmith": 255, "Leatherworker": 257, "Weaver": 256} },
     greatStrides: {            common: true, buff: true, skillID: {"Alchemist": 266, "Armorer": 262, "Blacksmith": 261, "Carpenter": 260, "Culinarian": 267, "Goldsmith": 263, "Leatherworker": 265, "Weaver": 264} },
     innovation: {              common: true, buff: true, skillID: {"Goldsmith": 284} },
@@ -120,7 +121,8 @@
         "carefulSynthesis",
         "rapidSynthesis2",
         "focusedSynthesis",
-        "intensiveSynthesis"
+        "intensiveSynthesis",
+		"groundwork"
       ]
     },
     {
