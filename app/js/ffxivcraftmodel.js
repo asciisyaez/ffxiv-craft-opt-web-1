@@ -310,7 +310,7 @@ function ApplyModifiers(s, action, condition) {
     }
 	
 	//Groundwork efficiency is reduced by half when durability cost is greater than current durability
-	if ((AllActions.wasteNot.shortName is s.effects.countDowns) || (AllActions.wasteNot.shortName is s.effects.countDowns)) {
+	if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
 	    if (isActionEq(action, AllActions.groundwork)) {
 			if (s.durabilityState < 10) {
 				progressIncreaseMultiplier -= 0.5;
