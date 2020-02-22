@@ -304,13 +304,13 @@ function ApplyModifiers(s, action, condition) {
     if ((AllActions.greatStrides.shortName in s.effects.countDowns) && (qualityIncreaseMultiplier > 0)) {
         qualityIncreaseMultiplier += 1;
     }
-	
-	//Groundwork efficiency is reduced by half when durability cost is greater than current durability
+		
     if (AllActions.innovation.shortName in s.effects.countDowns) {
         qualityIncreaseMultiplier += 0.5;
     }
 	
-	if (AllActions.wasteNot.shortName is s.effects.countDowns) || (AllActions.wasteNot.shortName is s.effects.countDowns) {
+	//Groundwork efficiency is reduced by half when durability cost is greater than current durability
+	if ((AllActions.wasteNot.shortName is s.effects.countDowns) || (AllActions.wasteNot.shortName is s.effects.countDowns)) {
 	    if (isActionEq(action, AllActions.groundwork)) {
 			if (s.durabilityState < 10) {
 				progressIncreaseMultiplier -= 0.5;
