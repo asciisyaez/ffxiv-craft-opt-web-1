@@ -15,6 +15,7 @@
   var extraActionInfo = {
     basicSynth: {                                        skillID: {"Alchemist": 100090, "Armorer": 100030, "Blacksmith": 100015, "Carpenter": 100001, "Culinarian": 100105, "Goldsmith": 100075, "Leatherworker": 100045, "Weaver": 100060} },
     basicSynth2: {                                       skillID: {"Alchemist": 100090, "Armorer": 100030, "Blacksmith": 100015, "Carpenter": 100001, "Culinarian": 100105, "Goldsmith": 100075, "Leatherworker": 100045, "Weaver": 100060} },
+	groundwork: {                                        skillID: {"Alchemist": 100090, "Armorer": 100030, "Blacksmith": 100015, "Carpenter": 100001, "Culinarian": 100105, "Goldsmith": 100075, "Leatherworker": 100045, "Weaver": 100060} },
     carefulSynthesis: {        common: true,             skillID: {"Weaver": 100063} },
     rapidSynthesis: {          common: true,             skillID: {"Armorer": 100033} },
     basicTouch: {                                        skillID: {"Alchemist": 100091, "Armorer": 100031, "Blacksmith": 100016, "Carpenter": 100002, "Culinarian": 100106, "Goldsmith": 100076, "Leatherworker": 100046, "Weaver": 100061} },
@@ -25,7 +26,6 @@
     wasteNot: {                common: true, buff: true, skillID: {"Leatherworker": 279} },
     wasteNot2: {               common: true, buff: true, skillID: {"Leatherworker": 285} },
     manipulation: {            common: true, buff: true, skillID: {"Goldsmith": 278} },
-	groundwork: {              common: true, buff: true, skillID: {"Goldsmith": 278} },
     innerQuiet: {              common: true, buff: true, skillID: {"Alchemist": 258, "Armorer": 254, "Blacksmith": 253, "Carpenter": 252, "Culinarian": 259, "Goldsmith": 255, "Leatherworker": 257, "Weaver": 256} },
     greatStrides: {            common: true, buff: true, skillID: {"Alchemist": 266, "Armorer": 262, "Blacksmith": 261, "Carpenter": 260, "Culinarian": 267, "Goldsmith": 263, "Leatherworker": 265, "Weaver": 264} },
     innovation: {              common: true, buff: true, skillID: {"Goldsmith": 284} },
