@@ -159,7 +159,8 @@
         "greatStrides",
         "innovation",
         "nameOfTheElements"
-    ]
+		"veneration"
+	]
     },
     {
       name: "Other", actions: [
