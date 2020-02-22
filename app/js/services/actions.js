@@ -121,8 +121,9 @@
         "carefulSynthesis",
         "rapidSynthesis2",
         "focusedSynthesis",
-        "intensiveSynthesis",
 		"groundwork"
+        "intensiveSynthesis",
+
       ]
     },
     {
