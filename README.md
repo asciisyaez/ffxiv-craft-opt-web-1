@@ -4,6 +4,8 @@ This project contains the source for the [FFXIV Crafting Optimizer Website](http
 
 https://asuki-opt.herokuapp.com/
 
+5.2 Beta site - http://asuki-optbeta.herokuapp.com/
+
 ### Running the app during development
 
 You can pick one of these options:
