@@ -159,7 +159,6 @@
         "greatStrides",
         "innovation",
         "nameOfTheElements"
-		"veneration"
 	]
     },
     {
