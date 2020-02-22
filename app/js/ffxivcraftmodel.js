@@ -309,9 +309,9 @@ function ApplyModifiers(s, action, condition) {
         progressIncreaseMultiplier += nameOfMultiplier;
     }
 
-    if (AllActions.innovation.shortName in s.effects.countDowns) {
-        progressIncreaseMultiplier += 0.2;
-    }
+    //if (AllActions.innovation.shortName in s.effects.countDowns) {
+    //    progressIncreaseMultiplier += 0.2;
+    //}
 
     if (isActionEq(action, AllActions.muscleMemory)) {
         if (s.step !== 1) {
@@ -329,7 +329,7 @@ function ApplyModifiers(s, action, condition) {
     }
 
     if (AllActions.innovation.shortName in s.effects.countDowns) {
-        qualityIncreaseMultiplier += 0.2;
+        qualityIncreaseMultiplier += 0.5;
     }
 
     // We can only use Byregot actions when we have at least 2 stacks of inner quiet
