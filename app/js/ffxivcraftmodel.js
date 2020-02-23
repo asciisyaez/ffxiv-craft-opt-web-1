@@ -217,11 +217,11 @@ function probExcellentForSynth(synth) {
 }
 
 function calcNameOfElementsBonus(s) {
-    /* From http://redd.it/3ejmp2 and http://redd.it/3d3meb	    // Progress is determined by calculating the percentage and rounding down to the nearest percent.
-     Assume for now that the function is linear, but capped with a minimum of 110%	    var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100);
-     */	    // Bonus ranges from 0 to 200% based on the inverse of the progress.
-    var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100) / 100;	    var bonus = 2 * (100 - percentComplete) / 100;
-    var nameOfMultiplier = -2 * percentComplete + 3;	    return Math.min(2, Math.max(0, bonus));
+    // Progress is determined by calculating the percentage and rounding down to the nearest percent.
+    var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100);
+    // Bonus ranges from 0 to 200% based on the inverse of the progress.
+    var bonus = 2 * (100 - percentComplete) / 100;
+    return Math.min(2, Math.max(0, bonus));
 }
 
 function getEffectiveCrafterLevel(synth) {
