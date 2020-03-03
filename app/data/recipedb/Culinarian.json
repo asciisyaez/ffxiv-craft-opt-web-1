@@ -6150,11 +6150,11 @@
   },
   {
     "baseLevel": 61,
-    "difficulty": 1400,
+    "difficulty": 1116,
     "durability": 80,
     "id": "6bfba32c6b9",
     "level": 260,
-    "maxQuality": 9065,
+    "maxQuality": 8377,
     "name": {
       "cn": "果仁蜜饼",
       "de": "Baklava",
@@ -6166,11 +6166,11 @@
   },
   {
     "baseLevel": 61,
-    "difficulty": 1400,
+    "difficulty": 1116,
     "durability": 80,
     "id": "44e5c4654a4",
     "level": 260,
-    "maxQuality": 9065,
+    "maxQuality": 8377,
     "name": {
       "cn": "枇杷果饮",
       "de": "Mispelsaft",
@@ -6182,11 +6182,11 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 842,
+    "difficulty": 631,
     "durability": 40,
     "id": "909cb1a0e24",
     "level": 265,
-    "maxQuality": 9752,
+    "maxQuality": 8581,
     "name": {
       "cn": "海藻盐",
       "de": "Algensalz",
@@ -6214,11 +6214,11 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 1684,
+    "difficulty": 1263,
     "durability": 80,
     "id": "26483da2aa7",
     "level": 265,
-    "maxQuality": 9752,
+    "maxQuality": 8581,
     "name": {
       "cn": "荞麦茶",
       "de": "Buchweizen-Tee",
@@ -6230,11 +6230,11 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 1684,
+    "difficulty": 1263,
     "durability": 80,
     "id": "0f383681cff",
     "level": 265,
-    "maxQuality": 9752,
+    "maxQuality": 8581,
     "name": {
       "cn": "盐烤石楠嘉鱼",
       "de": "Gegrillter Saibling",
@@ -6294,11 +6294,11 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 1684,
+    "difficulty": 1263,
     "durability": 80,
     "id": "66d785c3241",
     "level": 265,
-    "maxQuality": 9752,
+    "maxQuality": 8581,
     "name": {
       "cn": "荞麦糊",
       "de": "Kascha",
@@ -6374,11 +6374,11 @@
   },
   {
     "baseLevel": 63,
-    "difficulty": 984,
+    "difficulty": 738,
     "durability": 40,
     "id": "17bbbb55c3f",
     "level": 270,
-    "maxQuality": 10439,
+    "maxQuality": 9186,
     "name": {
       "cn": "棉籽油",
       "de": "Baumwollsamenöl",
@@ -6406,11 +6406,11 @@
   },
   {
     "baseLevel": 63,
-    "difficulty": 1968,
+    "difficulty": 1476,
     "durability": 80,
     "id": "60470f5df98",
     "level": 270,
-    "maxQuality": 10439,
+    "maxQuality": 9186,
     "name": {
       "cn": "烤海螺",
       "de": "Gekochte Turbanschnecke",
@@ -6422,11 +6422,11 @@
   },
   {
     "baseLevel": 63,
-    "difficulty": 1968,
+    "difficulty": 1476,
     "durability": 80,
     "id": "78bf3b42bcd",
     "level": 270,
-    "maxQuality": 10439,
+    "maxQuality": 9186,
     "name": {
       "cn": "山芋泥荞麦面",
       "de": "Toffel-Soba",
@@ -6502,11 +6502,11 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 1058,
+    "difficulty": 793,
     "durability": 40,
     "id": "63e2ef929fe",
     "level": 273,
-    "maxQuality": 10851,
+    "maxQuality": 9657,
     "name": {
       "cn": "甜菜糖",
       "de": "Rübenzucker",
@@ -6518,11 +6518,11 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 2116,
+    "difficulty": 1586,
     "durability": 60,
     "id": "e591efa48be",
     "level": 273,
-    "maxQuality": 8680,
+    "maxQuality": 7725,
     "name": {
       "cn": "云海珍宝",
       "de": "Wolkenmeerperle",
@@ -6534,11 +6534,11 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 1058,
+    "difficulty": 793,
     "durability": 60,
     "id": "9bdca8d131a",
     "level": 273,
-    "maxQuality": 4340,
+    "maxQuality": 3862,
     "name": {
       "cn": "云海珍宝部件",
       "de": "Komponente einer Wolkenmeerperle",
@@ -6550,11 +6550,11 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 2116,
+    "difficulty": 1586,
     "durability": 80,
     "id": "4075976479f",
     "level": 273,
-    "maxQuality": 10851,
+    "maxQuality": 9657,
     "name": {
       "cn": "油炸蟹肉饼",
       "de": "Krabbenkroketten",
@@ -6566,11 +6566,11 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 1058,
+    "difficulty": 793,
     "durability": 40,
     "id": "61ed2874bcf",
     "level": 273,
-    "maxQuality": 10851,
+    "maxQuality": 9657,
     "name": {
       "cn": "木棉豆腐",
       "de": "Fester Tofu",
@@ -6582,11 +6582,11 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 2116,
+    "difficulty": 1586,
     "durability": 80,
     "id": "ba0265e47a1",
     "level": 273,
-    "maxQuality": 10851,
+    "maxQuality": 9657,
     "name": {
       "cn": "豆腐味噌汁",
       "de": "Miso-Suppe mit Tofu",
@@ -6614,11 +6614,11 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 1584,
+    "difficulty": 1187,
     "durability": 80,
     "id": "14145001e8f",
     "level": 276,
-    "maxQuality": 6194,
+    "maxQuality": 5512,
     "name": {
       "cn": "多玛乌冬面汤底",
       "de": "Udon-Suppe",
@@ -6630,11 +6630,11 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 2264,
+    "difficulty": 1697,
     "durability": 80,
     "id": "cbf8240cc77",
     "level": 276,
-    "maxQuality": 11263,
+    "maxQuality": 10023,
     "name": {
       "cn": "煮杂菜",
       "de": "Gameni",
@@ -6646,11 +6646,11 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 4075,
+    "difficulty": 1697,
     "durability": 80,
     "id": "978a5af25f2",
     "level": 276,
-    "maxQuality": 5631,
+    "maxQuality": 5011,
     "name": {
       "cn": "东方午餐组合：饭团",
       "de": "Fernöstlicher Onigiri-Lunch",
@@ -6662,11 +6662,11 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 4075,
+    "difficulty": 1697,
     "durability": 80,
     "id": "9dade2626b6",
     "level": 276,
-    "maxQuality": 5631,
+    "maxQuality": 5011,
     "name": {
       "cn": "东方午餐组合：寿司",
       "de": "Fernöstlicher Sushi-Lunch",
@@ -6678,11 +6678,11 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 1132,
+    "difficulty": 848,
     "durability": 40,
     "id": "c45da3fdacd",
     "level": 276,
-    "maxQuality": 11263,
+    "maxQuality": 10023,
     "name": {
       "cn": "米醋",
       "de": "Reisessig",
@@ -6694,11 +6694,11 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 2264,
+    "difficulty": 1697,
     "durability": 80,
     "id": "38fc306bc98",
     "level": 276,
-    "maxQuality": 11263,
+    "maxQuality": 10023,
     "name": {
       "cn": "牛肉串",
       "de": "Shorlog",
@@ -6710,11 +6710,11 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 2264,
+    "difficulty": 1697,
     "durability": 80,
     "id": "4b7875eeddf",
     "level": 276,
-    "maxQuality": 11263,
+    "maxQuality": 10023,
     "name": {
       "cn": "浇汁菜蛙",
       "de": "Froschschenkel Süß-Sauer",
@@ -6726,11 +6726,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 2411,
+    "difficulty": 1808,
     "durability": 60,
     "id": "b82595f2379",
     "level": 279,
-    "maxQuality": 9340,
+    "maxQuality": 8311,
     "name": {
       "cn": "崖畔亭蒸馏酒必需品",
       "de": "Spirituosenzubehörteil",
@@ -6742,11 +6742,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 2411,
+    "difficulty": 1808,
     "durability": 60,
     "id": "b91ad49fef8",
     "level": 279,
-    "maxQuality": 9340,
+    "maxQuality": 8311,
     "name": {
       "cn": "伊修加德菜肴必需品",
       "de": "Ishgarder Kochutensil",
@@ -6758,11 +6758,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 1205,
+    "difficulty": 904,
     "durability": 60,
     "id": "b73e1525742",
     "level": 279,
-    "maxQuality": 4670,
+    "maxQuality": 4155,
     "name": {
       "cn": "伊修加德菜肴必需品的部件",
       "de": "Ishgarder Kochutensil-Komponente",
@@ -6774,11 +6774,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 1205,
+    "difficulty": 904,
     "durability": 60,
     "id": "5767ed6d81b",
     "level": 279,
-    "maxQuality": 4670,
+    "maxQuality": 4155,
     "name": {
       "cn": "崖畔亭蒸馏酒必需品的部件",
       "de": "Komponente eines Spirituosenzubehörteils",
@@ -6790,11 +6790,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 2411,
+    "difficulty": 1808,
     "durability": 80,
     "id": "5eb58eddae3",
     "level": 279,
-    "maxQuality": 11676,
+    "maxQuality": 10389,
     "name": {
       "cn": "游牧民风味肉饼",
       "de": "Nomaden-Fleischpastete",
@@ -6806,11 +6806,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 4339,
+    "difficulty": 1808,
     "durability": 80,
     "id": "3cc36601612",
     "level": 279,
-    "maxQuality": 5838,
+    "maxQuality": 5194,
     "name": {
       "cn": "东方午餐组合：荞麦面",
       "de": "Fernöstlicher Soba-Lunch",
@@ -6822,11 +6822,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 2411,
+    "difficulty": 1808,
     "durability": 80,
     "id": "e398da70c88",
     "level": 279,
-    "maxQuality": 11676,
+    "maxQuality": 10389,
     "name": {
       "cn": "根菜沙拉",
       "de": "Steppensalat",
@@ -6838,11 +6838,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 2411,
+    "difficulty": 1808,
     "durability": 80,
     "id": "042d51bc5b7",
     "level": 279,
-    "maxQuality": 11676,
+    "maxQuality": 10389,
     "name": {
       "cn": "天妇罗拼盘",
       "de": "Tempura-Platte",
@@ -6854,11 +6854,11 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 2411,
+    "difficulty": 1808,
     "durability": 80,
     "id": "218e2c276f0",
     "level": 279,
-    "maxQuality": 11676,
+    "maxQuality": 10389,
     "name": {
       "cn": "暮晖牛肉汤",
       "de": "Kriegereintopf",
@@ -6870,11 +6870,11 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 1279,
+    "difficulty": 959,
     "durability": 60,
     "id": "377413280b7",
     "level": 282,
-    "maxQuality": 4835,
+    "maxQuality": 4302,
     "name": {
       "cn": "崖畔亭备用品的部件",
       "de": "Komponente eines Klippenhänger-Einrichtungsgegenstands",
@@ -6886,11 +6886,11 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 2559,
+    "difficulty": 1919,
     "durability": 80,
     "id": "f71d83754cc",
     "level": 282,
-    "maxQuality": 12088,
+    "maxQuality": 10755,
     "name": {
       "cn": "芙蓉蟹",
       "de": "Ei Foo Young",
@@ -6902,11 +6902,11 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 2559,
+    "difficulty": 1919,
     "durability": 80,
     "id": "0ea737a00f2",
     "level": 282,
-    "maxQuality": 12088,
+    "maxQuality": 10755,
     "name": {
       "cn": "鱼汁",
       "de": "Fischeintopf",
@@ -6918,11 +6918,11 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 2559,
+    "difficulty": 1919,
     "durability": 60,
     "id": "6cc452f77f4",
     "level": 282,
-    "maxQuality": 9670,
+    "maxQuality": 8604,
     "name": {
       "cn": "崖畔亭的备用品",
       "de": "Klippenhänger-Einrichtungsgegenstand",
@@ -6934,11 +6934,11 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 2559,
+    "difficulty": 1919,
     "durability": 80,
     "id": "ee69513bfd5",
     "level": 282,
-    "maxQuality": 12088,
+    "maxQuality": 10755,
     "name": {
       "cn": "柿子布丁",
       "de": "Kakipudding",
@@ -6950,11 +6950,11 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 2559,
+    "difficulty": 1919,
     "durability": 60,
     "id": "c9824d0c561",
     "level": 282,
-    "maxQuality": 9670,
+    "maxQuality": 8604,
     "name": {
       "cn": "崖畔亭包子必需品",
       "de": "Buuds-Kochutensil",
@@ -6966,11 +6966,11 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 1279,
+    "difficulty": 959,
     "durability": 60,
     "id": "2b2002a75cb",
     "level": 282,
-    "maxQuality": 4835,
+    "maxQuality": 4302,
     "name": {
       "cn": "崖畔亭包子必需品的部件",
       "de": "Komponente eines Buuds-Kochutensils",
@@ -6982,11 +6982,11 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 2706,
+    "difficulty": 2029,
     "durability": 60,
     "id": "c1a3f033a6d",
     "level": 285,
-    "maxQuality": 10000,
+    "maxQuality": 8896,
     "name": {
       "cn": "酿造奶酒的必需品",
       "de": "Arkhi-Destillierutensil",
@@ -6998,11 +6998,11 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 1353,
+    "difficulty": 1014,
     "durability": 60,
     "id": "a3a21503397",
     "level": 285,
-    "maxQuality": 5000,
+    "maxQuality": 4448,
     "name": {
       "cn": "酿造奶酒必需品的部件",
       "de": "Komponente eines Arkhi-Destillierutensils",
@@ -7014,11 +7014,11 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 2706,
+    "difficulty": 2029,
     "durability": 80,
     "id": "60d20c20acc",
     "level": 285,
-    "maxQuality": 12500,
+    "maxQuality": 11121,
     "name": {
       "cn": "炖黄尾鰤鱼头",
       "de": "Gekochter Bernsteinmakrelen-Kopf",
@@ -7030,11 +7030,11 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 2706,
+    "difficulty": 2029,
     "durability": 80,
     "id": "7a56f677852",
     "level": 285,
-    "maxQuality": 12500,
+    "maxQuality": 11121,
     "name": {
       "cn": "多玛茶",
       "de": "Domanischer Tee",
@@ -7046,11 +7046,11 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 1894,
+    "difficulty": 1420,
     "durability": 80,
     "id": "ac19a8af69f",
     "level": 285,
-    "maxQuality": 6875,
+    "maxQuality": 6116,
     "name": {
       "cn": "手握寿司",
       "de": "Sushi",
@@ -7062,11 +7062,11 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 2706,
+    "difficulty": 2029,
     "durability": 80,
     "id": "5bc70348189",
     "level": 285,
-    "maxQuality": 12500,
+    "maxQuality": 11121,
     "name": {
       "cn": "鬼壳烧",
       "de": "Gegrillter Hummer",
@@ -7094,11 +7094,11 @@
   },
   {
     "baseLevel": 69,
-    "difficulty": 2854,
+    "difficulty": 2140,
     "durability": 80,
     "id": "596510d86e3",
     "level": 288,
-    "maxQuality": 12913,
+    "maxQuality": 11490,
     "name": {
       "cn": "散寿司",
       "de": "Chirashi-Sushi",
@@ -7110,11 +7110,11 @@
   },
   {
     "baseLevel": 69,
-    "difficulty": 2854,
+    "difficulty": 2140,
     "durability": 80,
     "id": "d918084eeaf",
     "level": 288,
-    "maxQuality": 12913,
+    "maxQuality": 11490,
     "name": {
       "cn": "长颈骆肉干",
       "de": "Getrocknetes Jhammel-Fleisch",
@@ -7126,11 +7126,11 @@
   },
   {
     "baseLevel": 69,
-    "difficulty": 2854,
+    "difficulty": 2140,
     "durability": 80,
     "id": "25a041a891d",
     "level": 288,
-    "maxQuality": 12913,
+    "maxQuality": 11490,
     "name": {
       "cn": "味噌田乐",
       "de": "Miso-Dengaku",
@@ -7142,11 +7142,11 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 2066,
+    "difficulty": 1549,
     "durability": 80,
     "id": "296875354ed",
     "level": 290,
-    "maxQuality": 7252,
+    "maxQuality": 6454,
     "name": {
       "cn": "多玛寿喜烧",
       "de": "Domanisches Sukiyaki",
@@ -7174,11 +7174,11 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 2066,
+    "difficulty": 1549,
     "durability": 60,
     "id": "c27d73e4ed5",
     "level": 290,
-    "maxQuality": 10549,
+    "maxQuality": 9388,
     "name": {
       "cn": "Flyer Printing Set (patch 5.1)",
       "de": "Flugblattdruck-Utensil",
@@ -7190,11 +7190,11 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 2952,
+    "difficulty": 2214,
     "durability": 80,
     "id": "d9b341e76e1",
     "level": 290,
-    "maxQuality": 13187,
+    "maxQuality": 11736,
     "name": {
       "cn": "长颈骆焗菜",
       "de": "Jhammel-Moussaka",
@@ -7222,11 +7222,11 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 2952,
+    "difficulty": 2214,
     "durability": 80,
     "id": "fd759b23a62",
     "level": 290,
-    "maxQuality": 13187,
+    "maxQuality": 11736,
     "name": {
       "cn": "清蒸赤点石斑鱼",
       "de": "Gedünsteter Zackenbarsch",
@@ -7238,11 +7238,11 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 2952,
+    "difficulty": 2214,
     "durability": 80,
     "id": "c7b2bd171a5",
     "level": 290,
-    "maxQuality": 13187,
+    "maxQuality": 11736,
     "name": {
       "cn": "炖河鲷",
       "de": "Gedünstete Flussbrasse",
@@ -7271,11 +7271,11 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 3149,
+    "difficulty": 2361,
     "durability": 60,
     "id": "8cacd17cb23",
     "level": 300,
-    "maxQuality": 11256,
+    "maxQuality": 9568,
     "name": {
       "cn": "Kholusian Cuisine Set (patch 5.1)",
       "de": "Menü-Komponenten",
@@ -7732,7 +7732,7 @@
     "durability": 60,
     "id": "09516d46909",
     "level": 390,
-    "maxQuality": 11256,
+    "maxQuality": 10468,
     "name": {
       "cn": "Honeybee Trappings (patch 5.1)",
       "de": "Bühnenkostümteil",
@@ -7764,7 +7764,7 @@
     "durability": 60,
     "id": "f27d9fc6a3f",
     "level": 395,
-    "maxQuality": 11878,
+    "maxQuality": 10928,
     "name": {
       "cn": "Airship Fittings (patch 5.1)",
       "de": "Luftschiff-Komponente",
@@ -7828,7 +7828,7 @@
     "durability": 60,
     "id": "cfae9f350c6",
     "level": 400,
-    "maxQuality": 12500,
+    "maxQuality": 11249,
     "name": {
       "cn": "Beehive Souvenir (patch 5.1)",
       "de": "Lustspielhaus-Souvenir",
