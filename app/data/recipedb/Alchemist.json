@@ -13407,7 +13407,7 @@
     "durability": 40,
     "id": "d67fe31114d",
     "level": 409,
-    "maxQuality": 17024,
+    "maxQuality": 15322,
     "name": {
       "cn": "植物成长剂10型",
       "de": "Wachstumsformel Kappa",
@@ -13423,7 +13423,7 @@
     "durability": 40,
     "id": "ea6ca0bd4a6",
     "level": 409,
-    "maxQuality": 17024,
+    "maxQuality": 15322,
     "name": {
       "cn": "强泡碱",
       "de": "Natron-Konzentrat",
@@ -13439,7 +13439,7 @@
     "durability": 80,
     "id": "af72157b889",
     "level": 412,
-    "maxQuality": 17490,
+    "maxQuality": 15742,
     "name": {
       "cn": "巨匠药水",
       "de": "Artisanentrank der Fachkenntnis",
@@ -13455,7 +13455,7 @@
     "durability": 80,
     "id": "81eebd1c976",
     "level": 412,
-    "maxQuality": 17490,
+    "maxQuality": 15742,
     "name": {
       "cn": "魔匠药水",
       "de": "Artisanentrank des Fachwissens",
@@ -13471,7 +13471,7 @@
     "durability": 80,
     "id": "59201b6b9cb",
     "level": 412,
-    "maxQuality": 17490,
+    "maxQuality": 15742,
     "name": {
       "cn": "缠尾蛟革魔导典",
       "de": "Zonurenleder-Kodex",
@@ -13487,7 +13487,7 @@
     "durability": 80,
     "id": "ae0d26c08f8",
     "level": 412,
-    "maxQuality": 17490,
+    "maxQuality": 15742,
     "name": {
       "cn": "缠尾蛟革魔导书",
       "de": "Zonurenleder-Grimoire",
@@ -13535,7 +13535,7 @@
     "durability": 80,
     "id": "c050b0fc15d",
     "level": 415,
-    "maxQuality": 17956,
+    "maxQuality": 16162,
     "name": {
       "cn": "矮人银魔导典",
       "de": "Zwergischer Edelmithril-Kodex",
@@ -13551,7 +13551,7 @@
     "durability": 80,
     "id": "31d7c2c5f39",
     "level": 415,
-    "maxQuality": 17956,
+    "maxQuality": 16162,
     "name": {
       "cn": "矮人银魔导书",
       "de": "Zwergisches Edelmithril-Grimoire",
@@ -13567,7 +13567,7 @@
     "durability": 40,
     "id": "038d27fb60c",
     "level": 415,
-    "maxQuality": 17956,
+    "maxQuality": 16162,
     "name": {
       "cn": "暗银附魔墨水",
       "de": "Magische Edelmithril-Tinte",
@@ -13631,7 +13631,7 @@
     "durability": 80,
     "id": "bfc19015d1c",
     "level": 418,
-    "maxQuality": 18422,
+    "maxQuality": 16582,
     "name": {
       "cn": "意力之幻药",
       "de": "Visionsremedium der Willenskraft",
@@ -13647,7 +13647,7 @@
     "durability": 80,
     "id": "1ceb4115777",
     "level": 418,
-    "maxQuality": 18422,
+    "maxQuality": 16582,
     "name": {
       "cn": "耐力之幻药",
       "de": "Visionsremedium der Konstitution",
@@ -13695,7 +13695,7 @@
     "durability": 80,
     "id": "a2f511565cf",
     "level": 430,
-    "maxQuality": 20287,
+    "maxQuality": 18262,
     "name": {
       "cn": "巧力之幻药",
       "de": "Visionsremedium des Scharfsinns",
@@ -13711,7 +13711,7 @@
     "durability": 80,
     "id": "87cd91f9ede",
     "level": 430,
-    "maxQuality": 20287,
+    "maxQuality": 18262,
     "name": {
       "cn": "智力之幻药",
       "de": "Visionsremedium der Intelligenz",
@@ -13727,7 +13727,7 @@
     "durability": 80,
     "id": "f4357a6be16",
     "level": 430,
-    "maxQuality": 20287,
+    "maxQuality": 18262,
     "name": {
       "cn": "刚力之幻药",
       "de": "Visionsremedium der Stärke",
@@ -13806,11 +13806,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560 ,
     "durability": 70,
     "id": "5d2550a2f4d",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "魔咒手稿",
       "de": "Galdrabok",
@@ -13823,11 +13823,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 4777,
+    "difficulty": 3474,
     "durability": 35,
     "id": "01f155e26d8",
     "level": 450,
-    "maxQuality": 32753,
+    "maxQuality": 25734,
     "name": {
       "cn": "2级巧力之幻水",
       "de": "Visionslösung des Scharfsinns II",
@@ -13840,11 +13840,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 4777,
+    "difficulty": 3474,
     "durability": 35,
     "id": "704e56b12b9",
     "level": 450,
-    "maxQuality": 32753,
+    "maxQuality": 25734,
     "name": {
       "cn": "2级智力之幻水",
       "de": "Visionslösung der Intelligenz II",
@@ -13857,11 +13857,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 4777,
+    "difficulty": 3474,
     "durability": 35,
     "id": "c439f289336",
     "level": 450,
-    "maxQuality": 32753,
+    "maxQuality": 25734,
     "name": {
       "cn": "2级意力之幻水",
       "de": "Visionslösung der Willenskraft II",
@@ -13874,11 +13874,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 4777,
+    "difficulty": 3474,
     "durability": 35,
     "id": "f5852cce43a",
     "level": 450,
-    "maxQuality": 32753,
+    "maxQuality": 25734,
     "name": {
       "cn": "2级刚力之幻水",
       "de": "Visionslösung der Stärke II",
@@ -13891,11 +13891,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560 ,
     "durability": 70,
     "id": "af1bc8180cf",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "2级巧力之幻药",
       "de": "Visionsremedium des Scharfsinns II",
@@ -13908,11 +13908,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560 ,
     "durability": 70,
     "id": "a6b7a6575ce",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "2级智力之幻药",
       "de": "Visionsremedium der Intelligenz II",
@@ -13925,11 +13925,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560 ,
     "durability": 70,
     "id": "9475a7c57fe",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "2级意力之幻药",
       "de": "Visionsremedium der Willenskraft II",
@@ -13942,11 +13942,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560 ,
     "durability": 70,
     "id": "157d4417eac",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "2级刚力之幻药",
       "de": "Visionsremedium der Stärke II",
@@ -13959,11 +13959,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560 ,
     "durability": 70,
     "id": "7651d8c6264",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "2级耐力之幻药",
       "de": "Visionsremedium der Konstitution II",
@@ -13976,11 +13976,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 4777,
+    "difficulty": 3474,
     "durability": 35,
     "id": "f5af6b41d49",
     "level": 450,
-    "maxQuality": 32753,
+    "maxQuality": 25734,
     "name": {
       "cn": "2级耐力之幻水",
       "de": "Visionslösung Konstitution II",
@@ -13993,7 +13993,7 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 7817,
+    "difficulty": 4343,
     "durability": 70,
     "id": "7f768f5e082",
     "level": 450,
@@ -14014,7 +14014,7 @@
     "durability": 35,
     "id": "d8cd9a87458",
     "level": 450,
-    "maxQuality": 35092,
+    "maxQuality": 28074,
     "name": {
       "cn": "Pliable Glass Fiber (patch 5.1)",
       "de": "Robuste Glasfasern",
@@ -14027,11 +14027,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560 ,
     "durability": 70,
     "id": "b166c26e36e",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "实用主义",
       "de": "Pragmatik",
@@ -14041,5 +14041,185 @@
       "ko": "Pragmatism"
     },
     "stars": 2
+  }
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "ab8010daa45",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Grade 3 Tinctures of Mind"
+    },
+    "stars": 3
+  }
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "ab8010daa45",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Grade 3 Tinctures of Mind"
+    },
+    "stars": 3
+  }
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "47eb98f27d9",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Grade 3 Tinctures of Strength"
+    },
+    "stars": 3
+  }
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "ae8e3f769f6",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Grade 3 Tinctures of Dexterity"
+    },
+    "stars": 3
+  }
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "7097b8cf22c",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Grade 3 Tinctures of Vitality"
+    },
+    "stars": 3
+  }
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "1d0a743fdb2",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Grade 3 Tinctures of Intelligence"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 6178,
+	"durability": 70,
+	"id": "9ffdf6171a3",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Rank VIII Artisan's Durable Practice Materials"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 6178,
+	"durability": 70,
+	"id": "c954fb096a4",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Neo-Ishgardian Grimoire"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 6178,
+	"durability": 70,
+	"id": "209039f1a66",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Neo-Ishgardian Codex"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 6178,
+	"durability": 70,
+	"id": "209039f1a66",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Neo-Ishgardian Codex"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 4343,
+	"durability": 70,
+	"id": "c1c11449f31",
+    "level": 1,
+    "maxQuality": 11697,
+    "name": {
+      "en": "Ultima (The Primals) Orchestrion Roll"
+    "stars": 2
+    },
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 4943,
+	"durability": 35,
+	"id": "3c47c9be80b",
+    "level": 480,
+    "maxQuality": 32328,
+    "name": {
+      "en": "Grade 3 Strength Alkahest"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 4943,
+	"durability": 35,
+	"id": "3ff4ad0e8bf",
+    "level": 480,
+    "maxQuality": 32328,
+    "name": {
+      "en": "Grade 3 Dexterity Alkahest"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 4943,
+	"durability": 35,
+	"id": "18d47a44464",
+    "level": 480,
+    "maxQuality": 32328,
+    "name": {
+      "en": "Grade 3 Intelligence Alkahest"
+    },
+    "stars": 3
+  }
+  {
+	"baseLevel": 80,
+	"difficulty": 4943,
+	"durability": 35,
+	"id": "d370bc08acb",
+    "level": 450,
+    "maxQuality": 32328,
+    "name": {
+      "en": "Rank VIII Artisan's Fragile Practice Materials"
+    },
+    "stars": 3
   }
 ]
