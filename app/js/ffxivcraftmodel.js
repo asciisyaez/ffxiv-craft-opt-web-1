@@ -316,7 +316,7 @@ function ApplyModifiers(s, action, condition) {
     //}
 	
     if (isActionEq(action, AllActions.groundwork)) {
-	    if (s.durabilityState < s.durabilityCost) {
+	    if (s.durabilityState < groundwork.durabilityCost) {
 		    progressIncreaseMultiplier -= 0.5;
 	    }
     }
