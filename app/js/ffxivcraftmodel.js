@@ -302,23 +302,19 @@ function ApplyModifiers(s, action, condition) {
         qualityIncreaseMultiplier += 0.5;
     }
 
-    //if (isActionEq(action, AllActions.groundwork)) {
-	    //if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
-		    //if (s.durabilityState < 10) {
-		    	//progressIncreaseMultiplier -= 0.5;
-		    //}
-	   // }
-	    //else {
-	    	// if (s.durabilityState < 10) {
-		 	//progressIncreaseMultiplier -= 0.5;
-		// }
-	   // }
-    //}
-	
-    if (isActionEq(action, AllActions.groundwork)) {
-	    if (s.durabilityState < groundwork.durabilityCost) {
-		    progressIncreaseMultiplier -= 0.5;
+    if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {	
+    	if (s.durabilityState < 10) {
+	    if (isActionEq(action, AllActions.groundwork)) {
+            	progressIncreaseMultiplier -= 0.5;
 	    }
+	}
+    }
+    else {
+    	if (s.durabilityState < 20) {
+		if (isActionEq(action, AllActions.groundwork)) {
+			progressIncreaseMultiplier -= 0.5;
+		}
+	}
     }
 	
     if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
