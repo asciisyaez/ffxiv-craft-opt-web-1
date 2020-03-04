@@ -14050,19 +14050,12 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Grade 3 Tinctures of Mind"
-    },
-    "stars": 3
-  }
-  {
-    "baseLevel": 80,
-    "difficulty": 6178,
-    "durability": 70,
-    "id": "ab8010daa45",
-    "level": 480,
-    "maxQuality": 36208,
-    "name": {
-      "en": "Grade 3 Tinctures of Mind"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Tinctures of Mind",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14074,7 +14067,12 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Grade 3 Tinctures of Strength"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Tinctures of Strength",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14086,7 +14084,13 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Grade 3 Tinctures of Dexterity"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Tinctures of Dexterity",
+      "fr": "",
+      "ja": "",
+      "ko": ""
+
     },
     "stars": 3
   }
@@ -14098,7 +14102,12 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Grade 3 Tinctures of Vitality"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Tinctures of Vitality",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14110,7 +14119,12 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Grade 3 Tinctures of Intelligence"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Tinctures of Intelligence",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14122,7 +14136,13 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Rank VIII Artisan's Durable Practice Materials"
+      "cn": "",
+      "de": "",
+      "en": "Rank VIII Artisan's Durable Practice Materials",
+      "fr": "",
+      "ja": "",
+      "ko": ""
+
     },
     "stars": 3
   }
@@ -14134,7 +14154,12 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Neo-Ishgardian Grimoire"
+      "cn": "",
+      "de": "",
+      "en": "Neo-Ishgardian Grimoire",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14146,19 +14171,12 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "en": "Neo-Ishgardian Codex"
-    },
-    "stars": 3
-  }
-  {
-	"baseLevel": 80,
-	"difficulty": 6178,
-	"durability": 70,
-	"id": "209039f1a66",
-    "level": 480,
-    "maxQuality": 36208,
-    "name": {
-      "en": "Neo-Ishgardian Codex"
+      "cn": "",
+      "de": "",
+      "en": "Neo-Ishgardian Codex",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14170,7 +14188,13 @@
     "level": 1,
     "maxQuality": 11697,
     "name": {
-      "en": "Ultima (The Primals) Orchestrion Roll"
+      "cn": "",
+      "de": "",
+      "en": "Ultima (The Primals) Orchestrion Roll",
+      "fr": "",
+      "ja": "",
+      "ko": ""
+	  },
     "stars": 2
     },
   }
@@ -14182,7 +14206,12 @@
     "level": 480,
     "maxQuality": 32328,
     "name": {
-      "en": "Grade 3 Strength Alkahest"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Strength Alkahest",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14194,7 +14223,12 @@
     "level": 480,
     "maxQuality": 32328,
     "name": {
-      "en": "Grade 3 Dexterity Alkahest"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Dexterity Alkahest",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14206,7 +14240,12 @@
     "level": 480,
     "maxQuality": 32328,
     "name": {
-      "en": "Grade 3 Intelligence Alkahest"
+      "cn": "",
+      "de": "",
+      "en": "Grade 3 Intelligence Alkahest",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
@@ -14218,7 +14257,12 @@
     "level": 450,
     "maxQuality": 32328,
     "name": {
-      "en": "Rank VIII Artisan's Fragile Practice Materials"
+      "cn": "",
+      "de": "",
+      "en": "Rank VIII Artisan's Fragile Practice Materials",
+      "fr": "",
+      "ja": "",
+      "ko": ""
     },
     "stars": 3
   }
