@@ -301,22 +301,19 @@ function ApplyModifiers(s, action, condition) {
     if (AllActions.innovation.shortName in s.effects.countDowns) {
         qualityIncreaseMultiplier += 0.5;
     }
-	
-	//Groundwork efficiency is reduced by half when durability cost is greater than current durability
-	//if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
-	    //if (isActionEq(action, AllActions.groundwork)) {
-			//if (s.durabilityState > 10) {
-				//progressIncreaseMultiplier -= 0.5;
-			//}
-		//}
-	//}
-	//else {
-		if (isActionEq(action, AllActions.groundwork)) {
-			if (s.durabilityState < 20) {
-				progressIncreaseMultiplier -= 0.5;
-			}
-		}
-	//}
+
+    if (isActionEq(action, AllActions.groundwork)) {
+	    if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
+		    if (s.durabilityState < 10) {
+		    	progressIncreaseMultiplier -= 0.5;
+		    }
+	    }
+	    else {
+	    	 if (s.durabilityState < 10) {
+		 	progressIncreaseMultiplier -= 0.5;
+		 }
+	    }
+    }
 	
     // We can only use Byregot actions when we have at least 2 stacks of inner quiet
     if (isActionEq(action, AllActions.byregotsBlessing)) {
