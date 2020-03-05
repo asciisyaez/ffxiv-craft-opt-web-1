@@ -16484,11 +16484,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "0cf3585c60b",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "复仇魔斧",
       "de": "Alastor",
@@ -16501,11 +16501,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "eb5cf1c7a3d",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "深渊轮刃",
       "de": "Barathrum",
@@ -16518,11 +16518,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "08cfe107ba5",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "木偶师",
       "de": "Burattinaios",
@@ -16535,11 +16535,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "dfff6aedbfc",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Awl (patch 5.1)",
       "de": "Manufaktur-Ahle",
@@ -16552,11 +16552,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "c65d280d7dd",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Claw Hammer (patch 5.1)",
       "de": "Manufaktur-Klauenhammer",
@@ -16569,11 +16569,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "10be7928261",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Cross-pein Hammer (patch 5.1)",
       "de": "Manufaktur-Kreuzschlaghammer",
@@ -16586,11 +16586,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "48bd8a859cf",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Culinary Knife (patch 5.1)",
       "de": "Manufaktur-Küchenmesser",
@@ -16603,11 +16603,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "bfc4a542f44",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet File (patch 5.1)",
       "de": "Manufaktur-Feile",
@@ -16620,11 +16620,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "7d2e2417125",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Hatchet (patch 5.1)",
       "de": "Manufaktur-Handbeil",
@@ -16637,11 +16637,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "5597a746439",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Mallet (patch 5.1)",
       "de": "Manufaktur-Juwelierhammer",
@@ -16654,11 +16654,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "a331cf96b74",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Mortar (patch 5.1)",
       "de": "Manufaktur-Mörser",
@@ -16671,11 +16671,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "5f94451edc3",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Pickaxe (patch 5.1)",
       "de": "Manufaktur-Spitzhacke",
@@ -16688,11 +16688,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "eb2c4b59a7d",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Pliers (patch 5.1)",
       "de": "Manufaktur-Zange",
@@ -16705,11 +16705,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "a22f468085b",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Raising Hammer (patch 5.1)",
       "de": "Manufaktur-Schlichthammer",
@@ -16722,11 +16722,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "2427c7f611c",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Round Knife (patch 5.1)",
       "de": "Manufaktur-Rundmesser",
@@ -16739,11 +16739,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "d38fcb731af",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Saw (patch 5.1)",
       "de": "Manufaktur-Säge",
@@ -16756,11 +16756,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "a5558376f08",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Scythe (patch 5.1)",
       "de": "Manufaktur-Sense",
@@ -16773,11 +16773,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 6297,
+    "difficulty": 4994,
     "durability": 70,
     "id": "a13d70399d5",
     "level": 450,
-    "maxQuality": 44450,
+    "maxQuality": 30413,
     "name": {
       "cn": "Facet Sledgehammer (patch 5.1)",
       "de": "Manufaktur-Vorschlaghammer",
@@ -16790,11 +16790,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "7b1393e2ae7",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "暴风舌大剑",
       "de": "Windstoß-Zunge",
@@ -16807,11 +16807,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "2752bc7d610",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "凶犯",
       "de": "Todesengel",
@@ -16824,11 +16824,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "95016df2405",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "行蕴",
       "de": "Sankhara",
@@ -16841,11 +16841,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "3444d9a62ba",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "丝音",
       "de": "Seidenklänge",
@@ -16858,11 +16858,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "8218523ae32",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "缓罪剑",
       "de": "Sündenerwehrer",
@@ -16875,11 +16875,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 4777,
+    "difficulty": 3474,
     "durability": 35,
     "id": "d1bd674f6f8",
     "level": 450,
-    "maxQuality": 32753,
+    "maxQuality": 25734,
     "name": {
       "cn": "重钨钢锭",
       "de": "Wolframbarren",
@@ -16892,11 +16892,11 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 5645,
+    "difficulty": 4560,
     "durability": 70,
     "id": "30c1255e8e7",
     "level": 450,
-    "maxQuality": 37432,
+    "maxQuality": 28074,
     "name": {
       "cn": "守护之刃",
       "de": "Tutelary",
