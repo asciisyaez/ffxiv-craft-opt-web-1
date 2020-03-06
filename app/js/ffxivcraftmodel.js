@@ -2566,8 +2566,8 @@ var SuggestedControl = {
 
 var LevelDifferenceFactors = {
     'craftsmanship': {
-        '-10': 0.75,
-        '-9': 0.77,
+        '-10': 0.8,
+        '-9': 0.8,
         '-8': 0.8,
         '-7': 0.82,
         '-6': 0.85,
