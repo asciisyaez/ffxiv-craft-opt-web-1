@@ -303,20 +303,21 @@ function ApplyModifiers(s, action, condition) {
     }
 	
     //Groundwork efficiency is reduced by half when durability cost is greater than current durability
-    if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
-        if (isActionEq(action, AllActions.groundwork)) {
-    		if (s.durabilityState < 10) {
-			progressIncreaseMultiplier -= 0.5;
-		}
-    	}
-    }
-    else {
-    	if (isActionEq(action, AllActions.groundwork)) {
+    //if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
+    //   if (isActionEq(action, AllActions.groundwork)) {
+    //		if (s.durabilityState < 10) {
+	//		progressIncreaseMultiplier -= 0.5;
+	//	}
+    //	}
+    //}
+    //else {
+		
+    if (isActionEq(action, AllActions.groundwork)) {
 		if (s.durabilityState < 20) {
 	 		progressIncreaseMultiplier -= 0.5;
 		}
 	}
-    }
+    //}
 		
     // We can only use Byregot actions when we have at least 2 stacks of inner quiet
     if (isActionEq(action, AllActions.byregotsBlessing)) {
@@ -2105,7 +2106,8 @@ var SuggestedCraftsmanship = {
     447: 2099,
     448: 2112,
     449: 2126,
-    450: 2140
+    450: 2140,
+	480: 2480
 };
 
 var SuggestedControl = {
@@ -2559,6 +2561,7 @@ var SuggestedControl = {
     448: 1964,
     449: 1977,
     450: 1990
+	480: 2195
 };
 
 var LevelDifferenceFactors = {
