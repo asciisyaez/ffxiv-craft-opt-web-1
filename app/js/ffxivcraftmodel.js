@@ -285,7 +285,7 @@ function ApplyModifiers(s, action, condition) {
 
     if (isActionEq(action, AllActions.muscleMemory)) {
         if (s.step !== 1) {
-            s.wastedActions += 1;
+            s.wastedActions += 99;
             progressIncreaseMultiplier = 0;
             cpCost = 0;
         }
