@@ -1567,7 +1567,7 @@ var LevelTable = {
     77: 412,
     78: 415,
     79: 418,
-    80: 430 
+    80: 420 
 };
 
 var Ing1RecipeLevelTable = {
@@ -2559,16 +2559,17 @@ var SuggestedControl = {
 
 var LevelDifferenceFactors = {
     'craftsmanship': {
-        '-10': 0.8,
-        '-9': 0.8,
-        '-8': 0.8,
-        '-7': 0.82,
-        '-6': 0.85,
-        '-5': 0.87,
-        '-4': 0.9,
-        '-3': 0.92,
-        '-2': 0.95,
-        '-1': 0.97,
+        '-20': 0.8,		
+        '-10': 1,
+        '-9': 1,
+        '-8': 1,
+        '-7': 1,
+        '-6': 1,
+        '-5': 1,
+        '-4': 1,
+        '-3': 1,
+        '-2': 1,
+        '-1': 1,
         0: 1,
         1: 1.05,
         2: 1.1,
@@ -2592,16 +2593,17 @@ var LevelDifferenceFactors = {
         20: 1.5
     },
     'control': {
-        '-10': 0.6,
-        '-9': 0.6,
-        '-8': 0.6,
-        '-7': 0.65,
-        '-6': 0.7,
-        '-5': 0.75,
-        '-4': 0.8,
-        '-3': 0.85,
-        '-2': 0.9,
-        '-1': 0.95,
+        '-20': 0.6,		
+        '-10': 1,
+        '-9': 1,
+        '-8': 1,
+        '-7': 1,
+        '-6': 1,
+        '-5': 1,
+        '-4': 1,
+        '-3': 1,
+        '-2': 1,
+        '-1': 1,
         0: 1,
         1: 1,
         2: 1,
@@ -2627,7 +2629,7 @@ var LevelDifferenceFactors = {
 };
 
 function getLevelDifferenceFactor(kind, levelDiff) {
-    if (levelDiff < -10) levelDiff = -10;
+    if (levelDiff < -20) levelDiff = -20;
     else if (levelDiff > 20) levelDiff = 20;
 
     var factors = LevelDifferenceFactors[kind];
